@@ -1,0 +1,1 @@
+{"name":"E2EEMessages","description":"Chiffrement de bout en bout (AES-256-GCM) pour les messages privés, compatible avec la version Vencord (desktop)","authors":[{"name":"Vous","id":"0"}],"main":"index.js","vendetta":{"icon":"ic_lock"},"hash":"9ac07d23ad45120a93ff5805a3f64310967fcb0f8710634518c9636ba2012290"}
